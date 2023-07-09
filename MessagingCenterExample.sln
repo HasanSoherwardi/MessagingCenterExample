@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingCenterExample.Android", "MessagingCenterExample\MessagingCenterExample.Android\MessagingCenterExample.Android.csproj", "{B9A50547-8D43-4781-9654-5A76841D2434}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MessagingCenterExample", "MessagingCenterExample\MessagingCenterExample\MessagingCenterExample.shproj", "{5AAE738B-BF25-48D9-A5AE-C674847A0A07}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MessagingCenterExample\MessagingCenterExample\MessagingCenterExample.projitems*{5aae738b-bf25-48d9-a5ae-c674847a0a07}*SharedItemsImports = 13
+		MessagingCenterExample\MessagingCenterExample\MessagingCenterExample.projitems*{b9a50547-8d43-4781-9654-5a76841d2434}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A50547-8D43-4781-9654-5A76841D2434}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F6CAF1-0ECD-4729-81FA-43CC660E1224}
+	EndGlobalSection
+EndGlobal
